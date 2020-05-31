@@ -11,6 +11,7 @@ https://qiita.com/0Scher
 
 ## Application
 ### 画像認識アプリ
+![2019_](https://github.com/nanako0323/portfolio/blob/master/img/My%20First%20App.png)
 ・2019年頃作成(覚えてない)
 ・FlutterとGoogleのライブラリで作ったもの
 ・画像を選択すると何であるかを確率で教えてくれる
